@@ -1,43 +1,5 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        *{
-            margin: 0;
-        }
-        .about{
-            background-color: #EEE2DC;
-            height:100vh;
-            padding-left: 50px;
-        }
-        .connect{
-            font-size: x-large;
-            padding-top:25px;
-            text-decoration: underline solid;
-        }
-        .connect1{
-            padding-top: 20px;
-        }
-        .tools{
-            font-size: xx-large;
-            padding-top:25px;
-            text-decoration:underline solid;
-        }
-        .tools1{
-            padding-top: 25px;
-        }
-        .myself{
-            font-size: larger;
-        }
-    
-    </style>
-</head>
-<body>
+
     <div class="about">
         <h1 align="center">Hi 👋, I'm Prasanna Lakshmi Priya Marri</h1>
         <h3 align="center">A passionate frontend developer from India</h3>
